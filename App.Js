@@ -2,7 +2,7 @@ let num = prompt("Enter your ID num:");
   
 
 if(num>=10000){
-  console.log("Very Good");
+  console.log("PASS");
   
 }
 else if(num<=10000){
@@ -13,3 +13,4 @@ else{
   console.log("pagal");
   
 }
+
